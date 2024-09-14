@@ -1,5 +1,5 @@
 # Target-System
-Repositório para a vaga de estágio na empresa Target System
+Repositório de Bruno Eduardo Luy para a vaga de estágio na empresa Target System
 
 Desafio 3) Soma terá valor 77
 
